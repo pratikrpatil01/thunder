@@ -2,7 +2,7 @@
   "name": "thunder-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pratikrpatil01.github.io/thunder-app",
+  "homepage": "https://pratikrpatil01.github.io/thunder-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.17.0",
